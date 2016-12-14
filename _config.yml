@@ -8,9 +8,9 @@ description: 乡村里的守望者的博客
 #   Google search results) and in your feed.xml site description.
 
 # baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
+# url: "http://xcldswz.xyz" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
-github_username:  Gaohaoyang
+github_username:  xcldswz
 permalink: /:year/:month/:day/:title/
 
 # Build settings

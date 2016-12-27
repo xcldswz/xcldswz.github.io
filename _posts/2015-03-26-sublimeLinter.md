@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "代码校验工具 SublimeLinter 的安装与使用"
+title:  "硬件入门之Arduino的安装与使用"
 date:   2015-03-26 15:14:54
-categories: Sublime
+categories: Arduino
 excerpt: 代码校验工具 sublimeLinter 的安装与使用，jshint 的安装与使用，JavaScript 语法检查校验，JavaScript 语法提示
 ---
 
@@ -12,7 +12,7 @@ excerpt: 代码校验工具 sublimeLinter 的安装与使用，jshint 的安装�
 
 ## 序   
 
-本文我将讲述一下 SublimeLinter 的安装过程。   
+本文我将讲述一下 Arduino 的安装过程。   
 其组件 jshint 的安装与使用。   
 其组件 csslint 的安装与使用。   
 我将基于 [Sublime Text 3](http://sublimetext.com/3) 来安装。   
@@ -22,7 +22,7 @@ SublimeLinter 是 Sublime 的插件，它的作用是检查代码语法是否有
 
 ---
 
-## 安装 SublimeLinter   
+## 安装 Arduino   
 
 如同其他插件一样使用 Package Control 来安装。   
 

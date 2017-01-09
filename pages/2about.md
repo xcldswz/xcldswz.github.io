@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about1/
+title: Intro
+permalink: /intro/
 icon: glyphicon-heart
 ---
 

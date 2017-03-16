@@ -10,7 +10,7 @@ excerpt: 硬件相关。
 {:toc}
 
 # 一、工具
-## 1、Arduino UNO
+##  1、Arduino UNO
 
 
 

@@ -21,7 +21,7 @@ icon: glyphicon-play
 ### 联系我
 
 * Email：[leebo106036@gmail.com](mailto:{{ site.email }})
-* Weibo：[xcldswz](http://weibo.com/u/5650708993/)
+* Weibo：[Rural-Warder](http://weibo.com/u/5650708993/)
 * 知乎：[xcldswz](https://www.zhihu.com/people/xcldswz)
 * 简书：[乡村里的守望者](http://www.jianshu.com/users/e67611a6379b/)
 

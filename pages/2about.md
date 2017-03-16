@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Intro
-permalink: /intro/
-icon: glyphicon-heart
+title: Info
+permalink: /info/
+icon: glyphicon-play
 ---
 
 ### 关于我

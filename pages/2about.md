@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Info
-permalink: /info/
+title: Intro
+permalink: /intro/
 icon: glyphicon-play
 ---
 

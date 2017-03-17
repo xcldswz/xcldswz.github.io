@@ -1,16 +1,16 @@
 ﻿---
 layout: post
 title:  "Arduino和Genuio产品入门指南（译）"
-date:   2017-03-17 12:50:05
+date:   2017-03-17 13:16:05
 categories: Arduino
-excerpt: 硬件相关。
+excerpt: 翻译作品。
 ---
 
 * content
 {:toc}
 
 
-> > 原文:Getting Started with Arduino and Genuino products
+> 原文:Getting Started with Arduino and Genuino products
   地址：https://www.arduino.cc/en/Guide/HomePage
   
  *欢迎使用Arduino！在您开始控制您身边的世界前，您将需要配置相应的开发环境来对您的开发板编程。*

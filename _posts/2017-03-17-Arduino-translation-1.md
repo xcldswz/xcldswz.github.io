@@ -1,17 +1,14 @@
-﻿
----
+﻿---
 layout: post
 title:  "Arduino和Genuio产品入门指南（译）"
 date:   2017-03-17 13:20:05
 categories: Arduino
-excerpt: 翻译。
+excerpt: 翻译作品。
 ---
 
 * content
 {:toc}
 
-
-## 任务
 
 
 > 原文:Getting Started with Arduino and Genuino products

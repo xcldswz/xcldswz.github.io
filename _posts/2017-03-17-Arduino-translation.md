@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  " Arduino和Genuio产品入门指南（译）"
+title:  "Arduino和Genuio产品入门指南（译）"
 date:   2017-03-17 12:50:05
 categories: Arduino
 excerpt: 硬件相关。
@@ -8,6 +8,7 @@ excerpt: 硬件相关。
 
 * content
 {:toc}
+
 
 > > 原文:Getting Started with Arduino and Genuino products
   地址：https://www.arduino.cc/en/Guide/HomePage

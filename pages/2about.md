@@ -23,6 +23,7 @@ icon: glyphicon-play
 * Email：[leebo106036@gmail.com](mailto:{{ site.email }})
 * Weibo：[Rural-Warder](http://weibo.com/u/5650708993/)
 * 知乎：[xcldswz](https://www.zhihu.com/people/xcldswz)
+* 知乎专栏：[程序员玩转物联网硬件](https://zhuanlan.zhihu.com/ioters)
 * 简书：[乡村里的守望者](http://www.jianshu.com/users/e67611a6379b/)
 
 

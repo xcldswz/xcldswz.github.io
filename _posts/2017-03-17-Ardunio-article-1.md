@@ -1,13 +1,14 @@
-﻿---
+---
 layout: post
-title:  "Arduino和Genuio产品入门指南（译）"
-date:   2017-03-17 13:20:05
+title:  "Aduino和Geduino产品入门指南（译）"
+date:   2017-03-17 19:06:05
 categories: Arduino
 excerpt: 翻译作品。
 ---
 
 * content
 {:toc}
+
 
 
 
